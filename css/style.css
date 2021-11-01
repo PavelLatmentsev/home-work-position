@@ -1,0 +1,172 @@
+body {
+    font-family: 'Manrope';
+    font-style: normal;
+}
+
+.conteiner {
+    width: 1440px;
+    height: 400px;
+    margin: 0 auto;
+    position: relative;
+ }
+
+ h1,h2,h3,p {
+     margin: 0;
+ }
+
+.purple {
+    background-color: #8C30F5;
+    height: 200px;
+}
+
+.white {
+    background-color:chocolate;
+    height: 200px;
+}
+
+.box {
+    width: 1110px;
+    height: 240px;
+    border-radius: 8px;
+    background-color: blanchedalmond;
+    position: absolute;
+    top: 80px;
+    left: 165px;
+    margin: 0;
+}
+/* Сформировал первый подблок*/
+.edge {
+    width: 255px;
+    vertical-align: middle;
+    display: inline-block;
+    background-color:crimson;
+    margin-top: 32px;
+}
+
+.smallboxtwo, .smallboxthree, .smallboxfour {
+    margin-left: 26px;
+   
+}
+
+.artone {
+    width: 64px;
+    border-radius: 50%;
+    background-color: grey;
+    margin: 0 auto;
+   
+   }
+
+.artone img {
+    margin: 20px;
+}
+
+.smallboxone h2 {
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 64px;
+color: #8C30F5;
+margin-top: 16px;
+text-align: center;
+}
+
+.smallboxone p {
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 32px;
+text-align: center;
+}
+/* Сформировал второй подблок*/
+
+.arttwo {
+    width: 64px;
+    border-radius: 50%;
+    background-color: grey;
+    margin: 0 auto;
+    
+   }
+
+.arttwo img {
+    margin:21px;
+}
+
+.smallboxtwo h2 {
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 64px;
+color: #8C30F5;
+margin-top: 16px;
+text-align: center;
+}
+
+.smallboxtwo p {
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 32px;
+text-align: center;
+}
+/* Сформировал третий подблок*/
+
+.artthree {
+    width: 64px;
+    border-radius: 50%;
+    background-color: grey;
+    margin: 0 auto;
+    
+   }
+
+.artthree img {
+    margin: 21px;
+}
+
+.smallboxthree h2 {
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 64px;
+color: #8C30F5;
+margin-top: 16px;
+text-align: center;
+}
+
+.smallboxthree p {
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 32px;
+text-align: center;
+}
+/* Сформировал четвертый подблок*/
+
+.artfour {
+    width: 64px;
+    border-radius: 50%;
+    background-color: grey;
+    margin: 0 auto;
+   
+   }
+
+.artfour img {
+    margin: 20px 22px;
+}
+
+.smallboxfour h2 {
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 64px;
+color: #8C30F5;
+margin-top: 16px;
+text-align: center;
+}
+
+.smallboxfour p {
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 32px;
+text-align: center;
+}
